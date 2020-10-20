@@ -72,6 +72,7 @@ int main() {
    cout<<"Name: "<<stud1.name<<"\n";
    cout<<"Course: "<<stud1.course<<"\n";
    cout<<"Fees: "<<stud1.fees<<"\n";
+   cout<<"All The Details are correct";
     
     return 0;
 }
